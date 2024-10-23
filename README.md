@@ -2,13 +2,13 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/b8e8a0b9a9e4d8ab0fed0.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://files.catbox.moe/xl5uy6.jpeg" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="Astro-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MAXIMUM-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
@@ -16,7 +16,7 @@
 
 #### <p align="center">By Vihanga YT| © | Reserved  </br> 
 
-# ASTRO-BOT-MD-V1.0
+# MAXIMUM-BOT-MD-V1.0
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
